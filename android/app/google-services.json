@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "896427467627",
+    "project_id": "ads-placeholder",
+    "storage_bucket": "ads-placeholder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896427467627:android:b14588adb3238e6532622e",
+        "android_client_info": {
+          "package_name": "com.taraxio.placeholder.placeholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896427467627-7jnaei3fqahcnla6ctgcnpr3a75brbg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEwyMJ7Vec74cNww_ei3_t4VhUQQ0mzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896427467627-7jnaei3fqahcnla6ctgcnpr3a75brbg9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "896427467627-8416t3v20bgfvm65unlca6jrg4vdkvh6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taraxio.placeholder.placeholder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
